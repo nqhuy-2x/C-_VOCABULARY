@@ -1,0 +1,7 @@
+﻿  04_NguyenQuocHuy_N19DCAT037.cpp
+E:\357tinhoc\CTDLGT_DE04\CTDLGT_DE04\04_NguyenQuocHuy_N19DCAT037.h(28,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\357tinhoc\CTDLGT_DE04\CTDLGT_DE04\04_NguyenQuocHuy_N19DCAT037.h(28,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\357tinhoc\CTDLGT_DE04\CTDLGT_DE04\04_NguyenQuocHuy_N19DCAT037.cpp(308,20): warning C4018: '<': signed/unsigned mismatch
+E:\357tinhoc\CTDLGT_DE04\CTDLGT_DE04\04_NguyenQuocHuy_N19DCAT037.cpp(362,22): warning C4018: '<': signed/unsigned mismatch
+E:\357tinhoc\CTDLGT_DE04\CTDLGT_DE04\04_NguyenQuocHuy_N19DCAT037.cpp(397,20): warning C4018: '<': signed/unsigned mismatch
+  CTDLGT_DE04.vcxproj -> E:\357tinhoc\CTDLGT_DE04\Debug\CTDLGT_DE04.exe
